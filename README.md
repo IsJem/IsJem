@@ -15,8 +15,8 @@
 > Estudiante apasionado de **ciberseguridad**, enfocado en hacking ético, protección de sistemas y desarrollo de software.
 
 - 🌟 **Fun fact**: Me la vivo tocando el bajo y escuchando Metallica mientras programo 🤘  
-- 🔭 **Actualmente explorando**: Seguridad web/redes, pentesting ético, detección de ohishing, diseño y entrenamiento de IA
-- 🎮 **Pasatiempos**: Homelab, vulnerable labs, scripting, gaming y Discord  
+- 🔭 **Actualmente explorando**: Seguridad web/redes, pentesting ético, detección de phishing, diseño y entrenamiento de IA
+- 🎮 **Pasatiempos**: Homelab, bass, leer ficción, vulnerable labs, aprender nuevos lenguajes de programación, gaming y Discord  
 
 ---
 
