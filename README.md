@@ -47,7 +47,7 @@
 ## 🚀 ¡Contáctame!
 
 <p align="center">
-  <a [href="https://github.com/IsJemCN](https://github.com/IsJem)">
+  <a href="https://github.com/IsJemCN">
     <img src="https://img.shields.io/badge/GitHub-IsJemCN-181717?style=for-the-badge&logo=github" />
   </a>
 
