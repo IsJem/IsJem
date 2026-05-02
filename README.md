@@ -56,7 +56,7 @@
   </a>
 
   
-  <img src="https://img.shields.io/badge/Discord-.s.a.k.i / 833539039897714750 -5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-.s.a.k.i-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 
