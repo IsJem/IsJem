@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Isaac_Cruz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="833539039897714750">
   <img src="https://img.shields.io/badge/Discord-.s.a.k.i-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
